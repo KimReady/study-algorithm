@@ -8,3 +8,5 @@
 	* max_consecutive_sum
 * backjoon
 	* 2798
+* Kakao Blind Test
+	* 추석 트래픽
